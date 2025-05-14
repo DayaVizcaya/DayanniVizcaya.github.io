@@ -1,2 +1,2 @@
-# DayanniVizcaya.github.io
+# DayaVizcaya.github.io
 Website
